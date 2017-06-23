@@ -1,4 +1,13 @@
-package ConstructorBehavior;
+/*
+ * To change this template, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package constructionbehavior;
+
+/**
+ *
+ * @author 3rd Year Account
+ */
 public class B extends A{
     boolean z;
     B(){

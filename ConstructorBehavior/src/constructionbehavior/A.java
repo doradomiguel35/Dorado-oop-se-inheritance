@@ -1,4 +1,13 @@
-package ConstructorBehavior;
+/*
+ * To change this template, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package constructionbehavior;
+
+/**
+ *
+ * @author 3rd Year Account
+ */
 public class A {
     String x;
     int y;
@@ -23,5 +32,5 @@ public class A {
     void setX(String x){this.x = x;}
     void setY(int y){this.y = y;}
     String getX(){return this.x;}
-    int getY(){return this.y;}        
+    int getY(){return this.y;}       
 }
