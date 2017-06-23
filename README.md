@@ -1,7 +1,7 @@
 # oop-se-inheritance
 OOP Class Inheritance
 
-##Task
+## Task
 1. Create a directory ```$ mkdir d:\lastname\oop-se```
 1. Get inside the directory ```$ cd d:\lastname\oop-se```
 1. Clone this repository ```$ git clone https://github.com/clydeatuic/oop-se-inheritance.git```
